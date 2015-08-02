@@ -8,8 +8,8 @@ using System.Diagnostics;
 //
 // e-Mail: christof@konstantinopoulos.de
 //
-// Der Quelltext ist nicht zur Veröffentlichung freigegeben und 
-// darf nur für die Auswertung des Wettbewerbs verwendet werden.
+// Der Quelltext unterliegt dem Urheberrecht.
+// Die Nutzung ist beschränkt auf Informations- und Ausbildungszwecke.
 //
 // 21.7.2015
 
