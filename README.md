@@ -1,6 +1,6 @@
 # dotnetpro_Contests #
 Repository für die Lösungen der dotnetpro Wettbewerbe.
-Bitte vorab die [Informationen im WIKI](https://github.com/chrkon/dotnetpro_Contests/wiki/Startseite) lesen!
+Bitte vorab die [Informationen im WIKI](https://github.com/chrkon/dotnetpro_Contests/wiki) lesen!
 
 ---
 
