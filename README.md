@@ -1,6 +1,8 @@
 # dotnetpro_Contests #
 Repository für die Lösungen der dotnetpro Wettbewerbe.  
-__Bitte vorab die [Informationen im WIKI](https://github.com/chrkon/dotnetpro_Contests/wiki) lesen!__
+__Bitte vorab die [Informationen im WIKI](https://github.com/chrkon/dotnetpro_Contests/wiki) lesen!__  
+
+_Dies ist ein privates Repository, welches keinerlei Verbindung zur dotNetPro oder dem Verlag hat. Die Idee hinter diesem Repository ist es, die Lösungen zu den Programmierwettbewerben zu sammeln und die verschiedenen Lösungsmöglichkeiten zu demonstrieren._
 
 ---
 
